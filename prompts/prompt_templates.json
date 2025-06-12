@@ -1,0 +1,7 @@
+[
+    "Generate a different prompt that an LLM could use to complete this task: '{{task}}'. The prompt should be well structured using a very clear tone. Do not solve or answer the task",
+    
+    "Create a an alternative LLM prompt based on this task: '{{task}}'. Use instructional approach. Do not solve or answer the task",
+    
+    "Given the task '{{task}}', create a variant this prompt that could be used to solve it. Take a different angle and voice. Do not solve or answer the task"
+  ]
