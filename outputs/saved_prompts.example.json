@@ -1,1 +1,6 @@
-
+{
+    "timestamp": "2025-06-11T12:00:00Z",
+    "task": "Summarize a blog post",
+    "prompt": "Format the response in 3 bullet points. Task:\nSummarize a blog post",
+    "output": "* It’s concise\n* Covers key points\n* Easy to read"
+  }
